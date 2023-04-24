@@ -1,0 +1,18 @@
+{
+  "name": "excalibur-vite-testproject",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "excalibur": "0.27.0",
+    "vite": "3.0.4"
+  },
+  "scripts": {
+    "start": "vite"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.21"
+  },
+  "keywords": [],
+  "description": ""
+}
